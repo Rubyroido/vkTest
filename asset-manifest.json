@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vkTest/static/css/main.ab78a493.css",
+    "main.js": "/vkTest/static/js/main.16c0d002.js",
+    "index.html": "/vkTest/index.html",
+    "main.ab78a493.css.map": "/vkTest/static/css/main.ab78a493.css.map",
+    "main.16c0d002.js.map": "/vkTest/static/js/main.16c0d002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab78a493.css",
+    "static/js/main.16c0d002.js"
+  ]
+}
