@@ -1,0 +1,15 @@
+.groups__list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 50px, auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+.groups__list-item {
+  max-width: 48%;
+  min-width: 400px;  
+}
